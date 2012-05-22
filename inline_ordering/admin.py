@@ -1,4 +1,5 @@
 from django.contrib.admin import TabularInline, StackedInline
+from django.conf import settings
 
 from django.conf import settings
 
