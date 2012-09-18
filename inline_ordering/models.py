@@ -1,5 +1,4 @@
 from django.db import models
-from inline_ordering import settings
 
 class Orderable(models.Model):
     
